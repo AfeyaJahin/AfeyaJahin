@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:jahin22a@mtholyoke.edu)](mailto:jahin22a@mtholyoke.edu)
 
 #### skills
-<img title="swift" alt="swfit" src="/assets/swift.png" height="40" />
+<img title="swift" alt="swfit" src="swift.png" height="40" />
 <img title="R" alt="linux" src="/assets/r.png"  width="50" width="40" />
 <img title="HTML5" alt="html" src="/assets/html.png"  width="50" height="40" />
 <img title="CSS3" alt="css" src="/assets/css.png" width="50" height="40" />

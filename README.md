@@ -1,13 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hello there!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+![Hi there](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62) 
 
+#### Reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afeyajahin)](https://www.linkedin.com/in/afeyajahin)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:jahin22a@mtholyoke.edu)](mailto:jahin22a@mtholyoke.edu)
 
-<img src="{BadgeURLHere}"/>
+#### skills
+<img title="swift" alt="swfit" src="/assets/swift-icon.svg" height="40" />
+<img title="R" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg"  width="50" width="40" />
+<img title="HTML5" alt="html" src="/assets/html-5.svg"  width="50" height="40" />
+<img title="CSS3" alt="css" src="/assets/css-3.svg" width="50" height="40" />
+<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="50" height="40" />
+<img title="Java" alt="java" src="/assets/java.svg" width="45" height="40" />
+<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="90" height="40" />
 
-
-
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AfeyaJahin&repo=odin)](https://github.com/YOURUSERNAME/YOURREPONAME)
 
 <!--
 **AfeyaJahin/AfeyaJahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

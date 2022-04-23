@@ -5,15 +5,15 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:jahin22a@mtholyoke.edu)](mailto:jahin22a@mtholyoke.edu)
 
 #### skills
-<img title="swift" alt="swfit" src="/assets/swift-icon.svg" height="40" />
-<img title="R" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg"  width="50" width="40" />
-<img title="HTML5" alt="html" src="/assets/html-5.svg"  width="50" height="40" />
-<img title="CSS3" alt="css" src="/assets/css-3.svg" width="50" height="40" />
-<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="50" height="40" />
-<img title="Java" alt="java" src="/assets/java.svg" width="45" height="40" />
-<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="90" height="40" />
+<img title="swift" alt="swfit" src="swift.png" height="40" />
+<img title="R" alt="linux" src="/assets/r.png"  width="50" width="40" />
+<img title="HTML5" alt="html" src="/assets/html.png"  width="50" height="40" />
+<img title="CSS3" alt="css" src="/assets/css.png" width="50" height="40" />
+<img title="Python" alt="Python" src="/assets/python.png" width="50" height="40" />
+<img title="Java" alt="java" src="/assets/java.png" width="45" height="40" />
+<img title="Git" alt="Git" src="/assets/git.png" width="90" height="40" />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AfeyaJahin&repo=odin)](https://github.com/YOURUSERNAME/YOURREPONAME)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AfeyaJahin&repo=odin-recipes)](https://github.com/AfeyaJahin/odin-recipes)
 
 <!--
 **AfeyaJahin/AfeyaJahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

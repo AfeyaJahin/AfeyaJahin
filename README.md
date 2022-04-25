@@ -1,18 +1,23 @@
-![Hi there](https://capsule-render.vercel.app/api?type=waving&color=20:faebd7,80:f5a4a050&height=200&width=1500&section=header&text=Hello%20Folks!&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62) 
+![Hi there](https://capsule-render.vercel.app/api?type=waving&color=20:faebd7,80:f5a4a050&height=200&width=1500&section=header&text=Hello,%20Folks!&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="90px">
 
-#### How to reach me:
+## I am Afeya(she/her) and I love Technology &#128105;&#8205;&#128187;
+
+### How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afeyajahin)](https://www.linkedin.com/in/afeyajahin)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:jahin22a@mtholyoke.edu)](mailto:jahin22a@mtholyoke.edu)
 
-#### skills
-<img title="swift" alt="swfit" src="/assets/swift.png" height="40" /><img title="R" alt="linux" src="/assets/r.png"  width="50" width="40" />
-<img title="HTML5" alt="html" src="/assets/html.png"  width="50" height="40" />
-<img title="CSS3" alt="css" src="/assets/css.png" width="50" height="40" />
-<img title="Python" alt="Python" src="/assets/python.png" width="50" height="40" />
-<img title="Java" alt="java" src="/assets/java.png" width="45" height="40" />
-<img title="Git" alt="Git" src="/assets/git.png" width="90" height="40" />
+## 🔧 Technologies & Tools
+[![My Skills](https://skills.thijs.gg/icons?i=python,java,js,html,css,nodejs,swift,r,figma&theme=light)](https://skills.thijs.gg)
 
+#### I am currently learning: 
+[![My Skills](https://skills.thijs.gg/icons?i=react&theme=light)](https://skills.thijs.gg)
+
+#### I am currently working on:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AfeyaJahin&repo=odin-recipes)](https://github.com/AfeyaJahin/odin-recipes)
+
+
+## &#x1f4c8; GitHub Stats
+![Afeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=afeyajahin&theme=buefy&show_icons=true)
 
 <!--
 **AfeyaJahin/AfeyaJahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,8 @@
-![Hi there](https://capsule-render.vercel.app/api?type=waving&color=20:faebd7,80:f5a4a050&height=200&width=1500&section=header&text=Hello,%20Folks!&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="120px">
+![Hi there](https://capsule-render.vercel.app/api?type=waving&color=20:faebd7,80:f5a4a050&height=200&width=1500&section=header&text=Hello,%20Folks!&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
-## I am Afeya(she/her) and I love Technology &#128105;&#127995;&#8205;&#128187;
+
+
+## I am Afeya(she/her) and I love Technology &#128105;&#127995;&#8205;&#128187; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 ### How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afeyajahin)](https://www.linkedin.com/in/afeyajahin)

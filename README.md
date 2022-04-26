@@ -7,6 +7,9 @@
 ### How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afeyajahin)](https://www.linkedin.com/in/afeyajahin)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:jahin22a@mtholyoke.edu)](mailto:jahin22a@mtholyoke.edu)
+[![Coffee Badge](https://img.shields.io/badge/-buymeacoffee-critical?style=flat-round&link=https://www.buymeacoffee.com/afeyajahin)](https://www.buymeacoffee.com/afeyajahin)
+
+
 
 ## 🔧 Technologies & Tools
 [![My Skills](https://skills.thijs.gg/icons?i=python,java,js,html,css,nodejs,swift,r,figma&theme=light)](https://skills.thijs.gg)

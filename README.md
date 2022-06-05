@@ -2,7 +2,7 @@
 
 
 
-## I am Afeya(she/her) and I love Technology &#128105;&#127995;&#8205;&#128187; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+## I am Afeya(she/her) and I love Technology &#128105;&#127995;&#8205;&#128187; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" alt="waving icon">
 
 ### How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afeyajahin)](https://www.linkedin.com/in/afeyajahin)
@@ -25,7 +25,7 @@
 ![Afeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=afeyajahin&theme=buefy&show_icons=true)
 
 ### fun fact ⚡
-#### I have 50+ cats and they are all rescues.
+#### I have 50+ cats and they were all rescued
 
 <img src="https://c.tenor.com/oS5SFKhlWYwAAAAd/angry-cat.gif" width="120px">
 

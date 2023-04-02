@@ -18,7 +18,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=react&theme=light)](https://skills.thijs.gg)
 
 #### I am currently working on 🔭:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AfeyaJahin&repo=valetbike)](https://github.com/AfeyaJahin/odin-recipes)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AfeyaJahin&repo=valetbike)]([https://github.com/AfeyaJahin/valetbike](https://github.com/AfeyaJahin/valetbike))
 
 
 ## &#x1f4c8; GitHub Stats

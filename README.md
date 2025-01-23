@@ -21,8 +21,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AfeyaJahin&repo=portfolio)](https://github.com/AfeyaJahin/portfolio)
 
 
-## &#x1f4c8; GitHub Stats
-![Afeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=afeyajahin&theme=buefy&show_icons=true)
 
 ### fun fact ⚡
 #### I have 50+ cats and they were all rescued
